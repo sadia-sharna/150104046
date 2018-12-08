@@ -4,6 +4,8 @@
 I have used following techniques in this code:
 
 Selection: Rank Selection
+
 Crossover: Cycle Crossover
+
 Mutation: Scramble Mutation
 
